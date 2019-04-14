@@ -17,7 +17,7 @@ body {
 
 header {
 	font-family: 'Seriffic', 'Neucha', cursive;
-	font-size: 0.9em;
+	font-size: 0.8em;
 }
 
 #container {
@@ -28,15 +28,18 @@ header {
 }
 
 .gallery{
-	width: 400px;
-	margin: 5px;
+	background-color: white;
+	width: 350px;
+	margin: 8px;
 	border: 1px solid #ccc;
 	float: left;
 	box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 0.2);
+	transition: all 1s;
 }
 
 .gallery:hover {
 	border: 1px solid #777;
+	transform: scale(1.06);
 }
 
 .photo {
