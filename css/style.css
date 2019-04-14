@@ -1,11 +1,8 @@
-@font-face {
-	font-family: "Seriffic"; 
-	src: url('../fonts/seriffic.woff') format('woff');
-}
+@import url('https://fonts.googleapis.com/css?family=Neucha');
 
 @font-face {
-	font-family: "Fantasy One";
-	src: url(../fonts/fantasy_one.woff) format('woff');
+	font-family: 'Seriffic'; 
+	src: url('../fonts/seriffic.woff') format('woff');
 }
 
 * {
@@ -19,8 +16,8 @@ body {
 
 
 header {
-	font-family: "Seriffic", "Fantasy One", cursive;
-	font-size: 0.8em;
+	font-family: 'Seriffic', 'Neucha', cursive;
+	font-size: 0.9em;
 }
 
 #container {
