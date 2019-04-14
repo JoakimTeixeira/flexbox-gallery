@@ -87,3 +87,9 @@ footer {
 	padding-left: 25px;
 	padding-right: 25px;
 }
+
+@media screen and (max-width: 500px) {
+	.gallery { width: 250px; margin: 5px; }
+	.photo { height: 150px; }
+	.desc { padding: 5px; }
+}
