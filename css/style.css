@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css?family=Neucha');
 
 @font-face {
@@ -29,7 +30,7 @@ header {
 
 .gallery{
 	background-color: white;
-	width: 350px;
+	width: 300px;
 	margin: 8px;
 	border: 1px solid #ccc;
 	float: left;
@@ -78,6 +79,14 @@ header {
 	background-image: url('../images/photo6.jpeg');
 }
 
+.photo7 {
+	background-image: url('../images/photo7.jpeg');
+}
+
+.photo8 {
+	background-image: url('../images/photo8.jpeg');
+}
+
 footer {	
 	font-family: 'Georgia', 'Times New Roman', serif;	
 	color: rgba(230, 0, 20, 0.8);
@@ -89,7 +98,7 @@ footer {
 }
 
 @media screen and (max-width: 500px) {
-	.gallery { width: 250px; margin: 5px; }
-	.photo { height: 150px; }
-	.desc { padding: 5px; }
+	.gallery { width: 200px; margin: 6px; }
+	.photo { height: 133px; }
+	.desc { padding: 8px; }
 }
