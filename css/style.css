@@ -33,7 +33,6 @@ header {
 	width: 300px;
 	margin: 8px;
 	border: 1px solid #ccc;
-	float: left;
 	box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 0.2);
 	transition: all 1s;
 }
