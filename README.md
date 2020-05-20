@@ -5,7 +5,7 @@ Responsive image gallery showing exotic animals.
 
 ## What I've learned
 
-* Developed image gallery using flexbox, vanilla CSS3 & HTML5.
-* Implemented interface using CSS: @import, @font-face, box-shadow & flexbox layout.
-* Integraded structured images using CSS background-image property.
-* Added responsiveness with CSS @media rule.
+* Developed image gallery using Flexbox, CSS3 & HTML5.
+* Implemented cards with CSS animations and shadows.
+* Imported custom fonts.
+* Added responsiveness.
