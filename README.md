@@ -12,4 +12,4 @@ Responsive image gallery showing exotic animals.
 
 ## Additional Information
 
-All project images are free stock photos provided by [Unsplash](https://unsplash.com/)
+All project images are free stock photos provided by [Unsplash](https://unsplash.com/).
