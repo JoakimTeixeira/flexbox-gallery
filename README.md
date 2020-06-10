@@ -5,7 +5,11 @@ Responsive image gallery showing exotic animals.
 
 ## What I've learned
 
-* Developed image gallery using Flexbox, CSS3 & HTML5.
-* Implemented cards with CSS animations and shadows.
-* Imported custom fonts.
-* Added responsiveness.
+- Developed image gallery using Flexbox, CSS3 & HTML5
+- Implemented cards with CSS animations and shadows
+- Imported custom fonts
+- Added responsiveness
+
+## Additional Information
+
+- All project images are free stock photos provided by [Unsplash](https://unsplash.com/)
