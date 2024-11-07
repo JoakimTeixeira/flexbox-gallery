@@ -10,6 +10,10 @@ Responsive image gallery showing exotic animals.
 - Imported custom fonts
 - Added responsiveness
 
+## Running the Project
+
+To get started, fork the repository, clone it, and then open the `index.html` file in the browser.
+
 ## Additional Information
 
 All project images are free stock photos provided by [Unsplash](https://unsplash.com/).
